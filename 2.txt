@@ -1,0 +1,3 @@
+1. Таблица books с полями bookid, title
+2. Таблица authors с полями authorid, name
+3. Таблица NM связи books_authors с полями bookid, authorid и уникальными индексом по этим двум полям
